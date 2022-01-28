@@ -27,3 +27,6 @@ zshrc() {
     cd $HOME/dotfiles
     cat ./codespaces/zshrc > $HOME/.zshrc
 }
+
+setup-omz
+zshrc
